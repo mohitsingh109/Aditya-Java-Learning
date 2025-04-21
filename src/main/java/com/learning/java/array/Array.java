@@ -1,4 +1,4 @@
-package com.example.array;
+package com.learning.java.array;
 
 public class Array {
 

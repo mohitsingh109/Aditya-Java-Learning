@@ -1,4 +1,4 @@
-package com.example.array.gridquestion;
+package com.learning.java.array.gridquestion;
 
 public class GridPath
 {

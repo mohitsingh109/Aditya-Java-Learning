@@ -1,4 +1,4 @@
-package com.example.inheritance;
+package com.learning.java.inheritance;
 
 public class JavaDeveloper extends Person {
 
